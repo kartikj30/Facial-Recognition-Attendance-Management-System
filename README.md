@@ -1,8 +1,8 @@
 # Facial-Recognition-Attendance-Management-System
 
-It is an attendance management system that uses facial recognition to mark the attendance of a person and it can be customised according to the organizations useage
+It is an attendance management system that uses facial recognition to mark the attendance of a person and it can be customised according to the organizations usage.
 
-This project leverages advanced computer vision and machine learning techniques to automate attendance management in educational institutions, workplaces, or events. The system uses facial recognition technology to identify individuals in real-time through a webcam or CCTV feed, replacing traditional methods like manual roll calls or RFID cards. It uses NLM to record facial data to identify the person and it is quiet accurate so it dosent works for photos. the record of the attendance is automatically stored and updated in an excel file.
+This project leverages advanced computer vision and machine learning techniques to automate attendance management in educational institutions, workplaces, or events. The system uses facial recognition technology to identify individuals in real-time through a webcam or CCTV feed, replacing traditional methods like manual roll calls or RFID cards. It uses NLM to record facial data to identify the person and it is quite accurate so it dosent works for photos. the record of the attendance is automatically stored and updated in an excel file.
 
 Its key features include:
 
