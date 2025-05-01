@@ -9,3 +9,5 @@ Its key features include:
 Face Detection & Recognition: Accurately identifies and verifies registered users. Automated Attendance Logging: Records attendance directly into a database with timestamps, reducing manual errors. User-Friendly Interface: Provides a simple dashboard for administrators to manage user profiles, attendance records, and analytics. Scalability: Designed to handle multiple users simultaneously, ensuring smooth performance in diverse environments.
 
 The project showcases my expertise in Python, OpenCV, and machine learning frameworks, highlighting the potential of AI in streamlining administrative processes.
+![image](https://github.com/user-attachments/assets/6db66616-3da5-43d1-95eb-68995829f265)
+![image](https://github.com/user-attachments/assets/a3882271-2a08-4833-9894-22cbfb779afa)
